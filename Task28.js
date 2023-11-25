@@ -49,7 +49,7 @@ const users = [
   },
   {
     name: { title: "", first: "Just", last: "Improvement" },
-    picture: "images/wpprofile.jpeg",
+    picture: "wpprofile.jpeg",
     location: {
       city: "Baku",
       country: "Azerbaijan",
